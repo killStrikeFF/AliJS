@@ -10,10 +10,11 @@
 ***
 <h3> <img src="https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/development.browser.gears.-512.png" width="30">   Functions: </h3>  
 
-По функционалу – 
+По функционалу:
  * работает поиск товаров; 
  * добавление в корзину;
  * добавление в избранные товары;
  * фильтрация по категориям;
  * кнопки корзина и избранные.
+ 
  Так же реализован localStorage и Cookies. В LocalStorage хранятся избранные товары, а в Cookies товары корзины. 
